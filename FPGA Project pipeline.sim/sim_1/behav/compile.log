@@ -1,0 +1,117 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_utils_v3_0_5/hdl/xbip_utils_v3_0_vh_rfs.vhd" into library xbip_utils_v3_0_5
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_pipe_v3_0_1/hdl/xbip_pipe_v3_0_vh_rfs.vhd" into library xbip_pipe_v3_0_1
+INFO: [VRFC 10-307] analyzing entity xbip_pipe_v3_0_1_viv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_pipe_v3_0_1/hdl/xbip_pipe_v3_0.vhd" into library xbip_pipe_v3_0_1
+INFO: [VRFC 10-307] analyzing entity xbip_pipe_v3_0_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_bram18k_v3_0_1/hdl/xbip_bram18k_v3_0_vh_rfs.vhd" into library xbip_bram18k_v3_0_1
+INFO: [VRFC 10-307] analyzing entity xbip_bram18k_synth
+INFO: [VRFC 10-307] analyzing entity xbip_bram18k_rtl
+INFO: [VRFC 10-307] analyzing entity xbip_bram18k_v3_0_1_viv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_bram18k_v3_0_1/hdl/xbip_bram18k_v3_0.vhd" into library xbip_bram18k_v3_0_1
+INFO: [VRFC 10-307] analyzing entity xbip_bram18k_v3_0_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/mult_gen_v12_0_10/hdl/mult_gen_v12_0_vh_rfs.vhd" into library mult_gen_v12_0_10
+INFO: [VRFC 10-307] analyzing entity op_resize
+INFO: [VRFC 10-307] analyzing entity delay_line
+INFO: [VRFC 10-307] analyzing entity cc_compare
+INFO: [VRFC 10-307] analyzing entity luts
+INFO: [VRFC 10-307] analyzing entity mult18
+INFO: [VRFC 10-307] analyzing entity dsp
+INFO: [VRFC 10-307] analyzing entity hybrid
+INFO: [VRFC 10-307] analyzing entity ccm_dist_mem
+INFO: [VRFC 10-307] analyzing entity ccm_sp_block_mem
+INFO: [VRFC 10-307] analyzing entity ccm_dp_block_mem
+INFO: [VRFC 10-307] analyzing entity ccm_syncmem
+INFO: [VRFC 10-307] analyzing entity ccm_scaled_adder
+INFO: [VRFC 10-307] analyzing entity ccm_operation
+INFO: [VRFC 10-307] analyzing entity ccm
+INFO: [VRFC 10-307] analyzing entity three_input_adder
+INFO: [VRFC 10-307] analyzing entity multmxn_lut6
+INFO: [VRFC 10-307] analyzing entity mult_gen_v12_0_10_viv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/mult_gen_v12_0_10/hdl/mult_gen_v12_0.vhd" into library mult_gen_v12_0_10
+INFO: [VRFC 10-307] analyzing entity mult_gen_v12_0_10
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/ip/Red_Mult/sim/Red_Mult.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Red_Mult
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/ip/Green_Mult/sim/Green_Mult.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Green_Mult
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/ip/Blue_Mult/sim/Blue_Mult.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Blue_Mult
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/c_reg_fd_v12_0_1/hdl/c_reg_fd_v12_0_vh_rfs.vhd" into library c_reg_fd_v12_0_1
+INFO: [VRFC 10-307] analyzing entity c_reg_fd_v12_0_1_viv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/c_reg_fd_v12_0_1/hdl/c_reg_fd_v12_0.vhd" into library c_reg_fd_v12_0_1
+INFO: [VRFC 10-307] analyzing entity c_reg_fd_v12_0_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_dsp48_wrapper_v3_0_4/hdl/xbip_dsp48_wrapper_v3_0_vh_rfs.vhd" into library xbip_dsp48_wrapper_v3_0_4
+INFO: [VRFC 10-307] analyzing entity xbip_dsp48a_wrapper_v3_0
+INFO: [VRFC 10-307] analyzing entity xbip_dsp48a1_wrapper_v3_0
+INFO: [VRFC 10-307] analyzing entity xbip_dsp48e_wrapper_v3_0
+INFO: [VRFC 10-307] analyzing entity xbip_dsp48e1_wrapper_v3_0
+INFO: [VRFC 10-307] analyzing entity xbip_dsp48e2_wrapper_v3_0
+INFO: [VRFC 10-307] analyzing entity xbip_dsp48_wrapper_v3_0_4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_dsp48_addsub_v3_0_1/hdl/xbip_dsp48_addsub_v3_0_vh_rfs.vhd" into library xbip_dsp48_addsub_v3_0_1
+INFO: [VRFC 10-307] analyzing entity xbip_dsp48_addsub_rtl
+INFO: [VRFC 10-307] analyzing entity xbip_dsp48_addsub_synth
+INFO: [VRFC 10-307] analyzing entity xbip_dsp48_addsub_v3_0_1_viv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_dsp48_addsub_v3_0_1/hdl/xbip_dsp48_addsub_v3_0.vhd" into library xbip_dsp48_addsub_v3_0_1
+INFO: [VRFC 10-307] analyzing entity xbip_dsp48_addsub_v3_0_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_addsub_v3_0_1/hdl/xbip_addsub_v3_0_vh_rfs.vhd" into library xbip_addsub_v3_0_1
+INFO: [VRFC 10-307] analyzing entity xbip_addsub_v3_0_1_viv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_addsub_v3_0_1/hdl/xbip_addsub_v3_0.vhd" into library xbip_addsub_v3_0_1
+INFO: [VRFC 10-307] analyzing entity xbip_addsub_v3_0_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/c_addsub_v12_0_8/hdl/c_addsub_v12_0_vh_rfs.vhd" into library c_addsub_v12_0_8
+INFO: [VRFC 10-307] analyzing entity c_addsub_v12_0_8_lut6_legacy
+INFO: [VRFC 10-307] analyzing entity c_addsub_v12_0_8_base_legacy
+INFO: [VRFC 10-307] analyzing entity c_addsub_v12_0_8_fabric_legacy
+INFO: [VRFC 10-307] analyzing entity c_addsub_v12_0_8_legacy
+INFO: [VRFC 10-307] analyzing entity c_addsub_v12_0_8_viv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/c_addsub_v12_0_8/hdl/c_addsub_v12_0.vhd" into library c_addsub_v12_0_8
+INFO: [VRFC 10-307] analyzing entity c_addsub_v12_0_8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/ip/Adder/sim/Adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Adder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/new/Reg_16bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Reg_16bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/ip/RAM_B/RAM_B_sim_netlist.vhdl" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RAM_B_blk_mem_gen_prim_wrapper
+INFO: [VRFC 10-307] analyzing entity RAM_B_blk_mem_gen_prim_width
+INFO: [VRFC 10-307] analyzing entity RAM_B_blk_mem_gen_generic_cstr
+INFO: [VRFC 10-307] analyzing entity RAM_B_blk_mem_gen_top
+INFO: [VRFC 10-307] analyzing entity RAM_B_blk_mem_gen_v8_3_1_synth
+INFO: [VRFC 10-307] analyzing entity RAM_B_blk_mem_gen_v8_3_1
+INFO: [VRFC 10-307] analyzing entity RAM_B
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/ip/RAM_A/RAM_A_sim_netlist.vhdl" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RAM_A_blk_mem_gen_prim_wrapper_init
+INFO: [VRFC 10-307] analyzing entity \RAM_A_blk_mem_gen_prim_wrapper_init__parameterized0\
+INFO: [VRFC 10-307] analyzing entity \RAM_A_blk_mem_gen_prim_wrapper_init__parameterized1\
+INFO: [VRFC 10-307] analyzing entity RAM_A_blk_mem_gen_prim_width
+INFO: [VRFC 10-307] analyzing entity \RAM_A_blk_mem_gen_prim_width__parameterized0\
+INFO: [VRFC 10-307] analyzing entity \RAM_A_blk_mem_gen_prim_width__parameterized1\
+INFO: [VRFC 10-307] analyzing entity RAM_A_blk_mem_gen_generic_cstr
+INFO: [VRFC 10-307] analyzing entity RAM_A_blk_mem_gen_top
+INFO: [VRFC 10-307] analyzing entity RAM_A_blk_mem_gen_v8_3_1_synth
+INFO: [VRFC 10-307] analyzing entity RAM_A_blk_mem_gen_v8_3_1
+INFO: [VRFC 10-307] analyzing entity RAM_A
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/c_gate_bit_v12_0_1/hdl/c_gate_bit_v12_0_vh_rfs.vhd" into library c_gate_bit_v12_0_1
+INFO: [VRFC 10-307] analyzing entity c_gate_bit_tile
+INFO: [VRFC 10-307] analyzing entity c_gate_bit_tier
+INFO: [VRFC 10-307] analyzing entity c_gate_bit_v12_0_1_viv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/c_gate_bit_v12_0_1/hdl/c_gate_bit_v12_0.vhd" into library c_gate_bit_v12_0_1
+INFO: [VRFC 10-307] analyzing entity c_gate_bit_v12_0_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_counter_v3_0_1/hdl/xbip_counter_v3_0_vh_rfs.vhd" into library xbip_counter_v3_0_1
+INFO: [VRFC 10-307] analyzing entity dsp48_counter
+INFO: [VRFC 10-307] analyzing entity fabric_counter
+INFO: [VRFC 10-307] analyzing entity xbip_counter_v3_0_1_viv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/xbip_counter_v3_0_1/hdl/xbip_counter_v3_0.vhd" into library xbip_counter_v3_0_1
+INFO: [VRFC 10-307] analyzing entity xbip_counter_v3_0_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/c_counter_binary_v12_0_8/hdl/c_counter_binary_v12_0_vh_rfs.vhd" into library c_counter_binary_v12_0_8
+INFO: [VRFC 10-307] analyzing entity c_counter_binary_v12_0_8_legacy
+INFO: [VRFC 10-307] analyzing entity c_counter_binary_v12_0_8_viv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.ip_user_files/ipstatic/c_counter_binary_v12_0_8/hdl/c_counter_binary_v12_0.vhd" into library c_counter_binary_v12_0_8
+INFO: [VRFC 10-307] analyzing entity c_counter_binary_v12_0_8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/ip/Address_Counter/sim/Address_Counter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Address_Counter
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/new/FSM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FSM
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/new/Converter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Converter
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/new/Complete_Chip.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Complete_Chip
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sim_1/new/Chip_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Chip_TB

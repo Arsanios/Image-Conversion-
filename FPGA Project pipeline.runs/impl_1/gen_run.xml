@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tfgg484-2L" LaunchTime="1479199558">
+  <File Type="OPT-DCP" Name="Complete_Chip_opt.dcp"/>
+  <File Type="RUN-CONSTRS" Name="$PDATADIR/runs/impl_1/constrs_in.xml"/>
+  <File Type="RUN-SRCS" Name="$PDATADIR/runs/impl_1/sources.xml"/>
+  <File Type="ROUTE-DCP" Name="Complete_Chip_routed.dcp"/>
+  <File Type="PA-TCL" Name="Complete_Chip.tcl"/>
+  <File Type="RUN-STRAT" Name="$PDATADIR/runs/impl_1/impl_1.psg"/>
+  <File Type="OPT-DRC" Name="Complete_Chip_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Complete_Chip_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="Complete_Chip_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Complete_Chip.hwdef"/>
+  <File Type="PWROPT-DCP" Name="Complete_Chip_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Complete_Chip_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Complete_Chip_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Complete_Chip_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Complete_Chip_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Complete_Chip_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Complete_Chip_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Complete_Chip_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Complete_Chip_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Complete_Chip_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Complete_Chip_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="Complete_Chip_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Complete_Chip_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Complete_Chip_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Complete_Chip_physopt.dcp"/>
+  <File Type="RDI-RDI" Name="Complete_Chip.vdi"/>
+  <File Type="PHYSOPT-DRC" Name="Complete_Chip_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="Complete_Chip_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-DRC" Name="Complete_Chip_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Complete_Chip_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="Complete_Chip_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="Complete_Chip_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="Complete_Chip_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Complete_Chip_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Complete_Chip_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Complete_Chip_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Complete_Chip_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Complete_Chip_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Complete_Chip_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Complete_Chip_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Complete_Chip_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Complete_Chip_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Complete_Chip_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="Complete_Chip.bit"/>
+  <File Type="BG-BIN" Name="Complete_Chip.bin"/>
+  <File Type="BITSTR-MSK" Name="Complete_Chip.msk"/>
+  <File Type="BITSTR-RBT" Name="Complete_Chip.rbt"/>
+  <File Type="BITSTR-NKY" Name="Complete_Chip.nky"/>
+  <File Type="BITSTR-BMM" Name="Complete_Chip_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="Complete_Chip.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="Complete_Chip.sysdef"/>
+  <File Type="BG-BGN" Name="Complete_Chip.bgn"/>
+  <File Type="BG-DRC" Name="Complete_Chip.drc"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Reg_16bit.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/FSM.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Converter.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Complete_Chip.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../COE File/SRAM_COE_LENA_RGB.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/WriteToFile.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Complete_Chip"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/Const1.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/Const1.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2015"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="RAM_A"/>
+  <BlockFileSet Type="BlockSrcs" Name="Address_Counter"/>
+  <BlockFileSet Type="BlockSrcs" Name="RAM_B"/>
+  <BlockFileSet Type="BlockSrcs" Name="Adder"/>
+  <BlockFileSet Type="BlockSrcs" Name="Red_Mult"/>
+  <BlockFileSet Type="BlockSrcs" Name="Adder2"/>
+  <BlockFileSet Type="BlockSrcs" Name="Green_Mult"/>
+  <BlockFileSet Type="BlockSrcs" Name="Blue_Mult"/>
+</GenRun>

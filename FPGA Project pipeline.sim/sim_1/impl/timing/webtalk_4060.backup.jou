@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Tue Nov 15 00:32:38 2016
+# Process ID: 4060
+# Current directory: C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.sim/sim_1/impl/timing
+# Command line: wbtcv.exe -mode batch -source C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.sim/sim_1/impl/timing/xsim.dir/Chip_TB_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.sim/sim_1/impl/timing/webtalk.log
+# Journal file: C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.sim/sim_1/impl/timing\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Arsany -notrace

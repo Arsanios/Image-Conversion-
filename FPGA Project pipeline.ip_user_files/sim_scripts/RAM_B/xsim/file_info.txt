@@ -1,0 +1,2 @@
+Language File-Name               IP     Library         File-Path       
+VHDL,    RAM_B_sim_netlist.vhdl, RAM_B, xil_defaultlib, ../../../../FPGA

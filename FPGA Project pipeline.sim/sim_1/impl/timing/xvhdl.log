@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/new/WriteToFile.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity WriteToFile
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sim_1/new/Chip_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Chip_TB

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Fri Oct 21 12:50:47 2016
+# Process ID: 5008
+# Current directory: C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.runs/Blue_Mult_synth_1
+# Command line: vivado.exe -log Blue_Mult.vds -mode batch -messageDb vivado.pb -notrace -source Blue_Mult.tcl
+# Log file: C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.runs/Blue_Mult_synth_1/Blue_Mult.vds
+# Journal file: C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.runs/Blue_Mult_synth_1\vivado.jou
+#-----------------------------------------------------------
+source Blue_Mult.tcl -notrace

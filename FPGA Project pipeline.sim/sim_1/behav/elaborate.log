@@ -1,0 +1,7 @@
+Vivado Simulator 2015.4
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: D:/Programs/Vivado/Vivado/2015.4/bin/unwrapped/win64.o/xelab.exe -wto 74d41d47524441829326c6bd060262e9 --debug typical --relax --mt 2 -L xbip_utils_v3_0_5 -L xbip_pipe_v3_0_1 -L xbip_bram18k_v3_0_1 -L mult_gen_v12_0_10 -L xil_defaultlib -L c_reg_fd_v12_0_1 -L xbip_dsp48_wrapper_v3_0_4 -L xbip_dsp48_addsub_v3_0_1 -L xbip_addsub_v3_0_1 -L c_addsub_v12_0_8 -L c_gate_bit_v12_0_1 -L xbip_counter_v3_0_1 -L c_counter_binary_v12_0_8 -L secureip --snapshot Chip_TB_behav xil_defaultlib.Chip_TB -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-704] formal subtract has no actual or default value [C:/Users/Arsany A. Temothaws/Desktop/FPGA Project pipeline/FPGA Project pipeline/FPGA Project pipeline.srcs/sources_1/new/Converter.vhd:14]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit chip_tb in library work failed.

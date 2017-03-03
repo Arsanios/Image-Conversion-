@@ -1,0 +1,117 @@
+Vivado Simulator 2015.4
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: D:/Programs/Vivado/Vivado/2015.4/bin/unwrapped/win64.o/xelab.exe -wto 74d41d47524441829326c6bd060262e9 --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot Chip_TB_time_impl -transport_int_delays -pulse_r 0 -pulse_int_r 0 xil_defaultlib.Chip_TB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "Chip_TB_time_impl.sdf", for root module "Chip_TB/Final_Test".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "Chip_TB_time_impl.sdf", for root module "Chip_TB/Final_Test".
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package std.textio
+Compiling package ieee.std_logic_textio
+Compiling package vl.vl_types
+Compiling module xil_defaultlib.glbl
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.sffsrce_fdre
+Compiling module simprims_ver.FDRE
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1
+Compiling module xil_defaultlib.Address_Counter_c_reg_fd_v12_0_1...
+Compiling module simprims_ver.CARRY4
+Compiling module xil_defaultlib.Address_Counter_c_addsub_v12_0_8...
+Compiling module xil_defaultlib.Address_Counter_c_addsub_v12_0_8...
+Compiling module xil_defaultlib.Address_Counter_c_addsub_v12_0_8...
+Compiling module xil_defaultlib.Address_Counter_c_counter_binary...
+Compiling module xil_defaultlib.Address_Counter_c_counter_binary...
+Compiling module xil_defaultlib.Address_Counter_c_counter_binary...
+Compiling module xil_defaultlib.Address_Counter
+Compiling module xil_defaultlib.Address_Counter_c_reg_fd_v12_0_1...
+Compiling module xil_defaultlib.Address_Counter_c_addsub_v12_0_8...
+Compiling module xil_defaultlib.Address_Counter_c_addsub_v12_0_8...
+Compiling module xil_defaultlib.Address_Counter_c_addsub_v12_0_8...
+Compiling module xil_defaultlib.Address_Counter_c_counter_binary...
+Compiling module xil_defaultlib.Address_Counter_c_counter_binary...
+Compiling module xil_defaultlib.Address_Counter_c_counter_binary...
+Compiling module xil_defaultlib.Address_Counter_HD2
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.GND
+Compiling module xil_defaultlib.Adder_c_reg_fd_v12_0_1_viv
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module xil_defaultlib.Adder_c_addsub_v12_0_8_lut6_lega...
+Compiling module xil_defaultlib.Adder_c_addsub_v12_0_8_fabric_le...
+Compiling module xil_defaultlib.Adder_c_addsub_v12_0_8_legacy
+Compiling module xil_defaultlib.Adder_c_addsub_v12_0_8_viv
+Compiling module xil_defaultlib.Adder_c_addsub_v12_0_8
+Compiling module xil_defaultlib.Adder
+Compiling module xil_defaultlib.Adder2_c_addsub_v12_0_8_lut6_leg...
+Compiling module xil_defaultlib.Adder2_c_addsub_v12_0_8_fabric_l...
+Compiling module xil_defaultlib.Adder2_c_addsub_v12_0_8_legacy
+Compiling module xil_defaultlib.Adder2_c_addsub_v12_0_8_viv
+Compiling module xil_defaultlib.Adder2_c_addsub_v12_0_8
+Compiling module xil_defaultlib.Adder2
+Compiling module simprims_ver.LUT4
+Compiling module simprims_ver.LUT6
+Compiling module simprims_ver.x_lut3_mux4
+Compiling module simprims_ver.LUT3
+Compiling module simprims_ver.LUT5
+Compiling module xil_defaultlib.Blue_Mult_ccm_scaled_adder
+Compiling module xil_defaultlib.Blue_Mult_ccm_operation
+Compiling module xil_defaultlib.Blue_Mult_ccm
+Compiling module xil_defaultlib.Blue_Mult_mult_gen_v12_0_10_viv
+Compiling module xil_defaultlib.Blue_Mult_mult_gen_v12_0_10
+Compiling module xil_defaultlib.Blue_Mult
+Compiling module xil_defaultlib.Green_Mult_ccm_scaled_adder
+Compiling module xil_defaultlib.Green_Mult_ccm_operation
+Compiling module xil_defaultlib.Green_Mult_ccm
+Compiling module xil_defaultlib.Green_Mult_mult_gen_v12_0_10_viv
+Compiling module xil_defaultlib.Green_Mult_mult_gen_v12_0_10
+Compiling module xil_defaultlib.Green_Mult
+Compiling module xil_defaultlib.Red_Mult_ccm_scaled_adder
+Compiling module xil_defaultlib.Red_Mult_ccm_operation
+Compiling module xil_defaultlib.Red_Mult_ccm
+Compiling module xil_defaultlib.Red_Mult_mult_gen_v12_0_10_viv
+Compiling module xil_defaultlib.Red_Mult_mult_gen_v12_0_10
+Compiling module xil_defaultlib.Red_Mult
+Compiling module xil_defaultlib.Reg_16bit
+Compiling module xil_defaultlib.Converter
+Compiling module simprims_ver.ffsrce_fdce
+Compiling module simprims_ver.FDCE
+Compiling module xil_defaultlib.FSM
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.RB36_INTERNAL_VLOG(DOA_REG=0,DOB...
+Compiling module simprims_ver.RAMB36E1(INITP_00=256'b010101011...
+Compiling module xil_defaultlib.RAM_A_blk_mem_gen_prim_wrapper_i...
+Compiling module xil_defaultlib.RAM_A_blk_mem_gen_prim_width
+Compiling module simprims_ver.RB36_INTERNAL_VLOG(DOA_REG=0,DOB...
+Compiling module simprims_ver.RAMB36E1(INITP_00=256'b011010010...
+Compiling module xil_defaultlib.RAM_A_blk_mem_gen_prim_wrapper_i...
+Compiling module xil_defaultlib.RAM_A_blk_mem_gen_prim_width__pa...
+Compiling module simprims_ver.RB36_INTERNAL_VLOG(DOA_REG=0,DOB...
+Compiling module simprims_ver.RAMB36E1(INIT_00=256'b0110011001...
+Compiling module xil_defaultlib.RAM_A_blk_mem_gen_prim_wrapper_i...
+Compiling module xil_defaultlib.RAM_A_blk_mem_gen_prim_width__pa...
+Compiling module xil_defaultlib.RAM_A_blk_mem_gen_generic_cstr
+Compiling module xil_defaultlib.RAM_A_blk_mem_gen_top
+Compiling module xil_defaultlib.RAM_A_blk_mem_gen_v8_3_1_synth
+Compiling module xil_defaultlib.RAM_A_blk_mem_gen_v8_3_1
+Compiling module xil_defaultlib.RAM_A
+Compiling module simprims_ver.RB36_INTERNAL_VLOG(DOA_REG=0,DOB...
+Compiling module simprims_ver.RAMB36E1(RDADDR_COLLISION_HWCONF...
+Compiling module simprims_ver.FDCE(INIT=1'b1)
+Compiling module xil_defaultlib.RAM_B_blk_mem_gen_prim_wrapper
+Compiling module xil_defaultlib.RAM_B_blk_mem_gen_prim_width
+Compiling module xil_defaultlib.RAM_B_blk_mem_gen_generic_cstr
+Compiling module xil_defaultlib.RAM_B_blk_mem_gen_top
+Compiling module xil_defaultlib.RAM_B_blk_mem_gen_v8_3_1_synth
+Compiling module xil_defaultlib.RAM_B_blk_mem_gen_v8_3_1
+Compiling module xil_defaultlib.RAM_B
+Compiling module xil_defaultlib.Complete_Chip
+Compiling architecture behavioral of entity xil_defaultlib.WriteToFile [\WriteToFile("final_out_grey.txt...]
+Compiling architecture behavioral of entity xil_defaultlib.chip_tb
+Waiting for 4 sub-compilation(s) to finish...
+Built simulation snapshot Chip_TB_time_impl

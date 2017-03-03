@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="Address_Counter_synth_1" LaunchPart="xc7a100tfgg484-2L" LaunchTime="1476961867">
+  <File Type="RUN-CONSTRS" Name="$PDATADIR/runs/Address_Counter_synth_1/constrs_in.xml"/>
+  <File Type="RDS-DCP" Name="Address_Counter.dcp"/>
+  <File Type="RUN-SRCS" Name="$PDATADIR/runs/Address_Counter_synth_1/sources.xml"/>
+  <File Type="RDS-UTIL-PB" Name="Address_Counter_utilization_synth.pb"/>
+  <File Type="RUN-STRAT" Name="$PDATADIR/runs/Address_Counter_synth_1/Address_Counter_synth_1.psg"/>
+  <File Type="PA-TCL" Name="Address_Counter.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="Address_Counter_drc_synth.rpt"/>
+  <File Type="RDS-RDS" Name="Address_Counter.vds"/>
+  <File Type="RDS-UTIL" Name="Address_Counter_utilization_synth.rpt"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="Address_Counter_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="Address_Counter_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/Address_Counter">
+    <File Path="$PSRCDIR/sources_1/ip/Address_Counter/Address_Counter.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="Address_Counter"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/Address_Counter">
+    <File Path="$PSRCDIR/sources_1/ip/Address_Counter/Address_Counter.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="Address_Counter"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2015"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>
